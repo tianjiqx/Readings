@@ -19,7 +19,7 @@
 
 ### 1.3 join order (current need read)
 - [ ] Improving Join Reorderabilitywith Compensation Operators
-- [ ] On the Correct and Complete Enumeration of the Core Search Space
+- [x] On the Correct and Complete Enumeration of the Core Search Space
 - [ ] Dynamic Programming Strikes Back
 - [ ] Left Bit Right: For SPARQL Join Queries with OPTIONAL Patterns (Left-outer-joins)
 
