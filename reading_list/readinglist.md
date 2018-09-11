@@ -25,8 +25,11 @@
 
 ### 1.4 statistic info & estimation
 - [x] How Good Are Query Optimizers, Really?(some expriment,good)
+- [x] Modeling skewed distribution using multifractals and the80-20'law(good)
+- [ ] Cardinality Estimation: An Experimental Survey
 - [ ] Two-Level Sampling for Join Size Estimation
 - [ ] Lightweight Cardinality Estimation in LSM-based Systems
+- [ ] Summarizing and Mining Skewed Data Streams
 
 ### 1.5 cost model
 - [x] Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?(some expriments,good)
