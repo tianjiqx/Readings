@@ -26,7 +26,7 @@
 ### 1.4 statistic info & estimation
 - [x] How Good Are Query Optimizers, Really?(some expriment,good)
 - [x] Modeling skewed distribution using multifractals and the80-20'law(good)
-- [ ] Cardinality Estimation: An Experimental Survey
+- [x] Cardinality Estimation: An Experimental Survey
 - [ ] Two-Level Sampling for Join Size Estimation
 - [ ] Lightweight Cardinality Estimation in LSM-based Systems
 - [ ] Summarizing and Mining Skewed Data Streams
@@ -41,7 +41,8 @@
 ## 2.system architecture
 - [x] Spanner: Becoming a SQL System (recommended)
 - [x] F1: A Distributed SQL Database That Scales (recommended)
-- [ ] Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases
+- [x] Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases
+- [x] PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database
 - [ ] Impala: A Modern, Open-Source SQL Engine for Hadoop
 - [ ] Anti-Caching: A New Approach to Database Management System Architecture
  
