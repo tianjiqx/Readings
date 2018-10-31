@@ -19,11 +19,21 @@
 - [x] 数据库系统实现（第二版）(part)
 - [x] 数据库查询优化器的艺术+原理解析与SQL性能
 - [ ] SQLite Database System Design and Implementation
-- [x] Designing.Data-Intensive.Applications (part)
+- [x] Designing Data-Intensive Applications (part)
 - [x] PostgreSQL技术内幕+查询优化深度探索+张树杰(part,少有的帮组理解pg查询优化器代码的书) 
 - [x] PostgreSQL数据库内核分析(part)
 - [x] SQL语言艺术(part)
 - [x] SQL优化核心思想(part,oracle,第九章sql优化案例赏析)
+
+
+### 计算机：测试
+
+
+- [ ] google测试之道
+
+
+### 计算机：数据可视化  
+
 
 
 
