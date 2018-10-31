@@ -1,2 +1,2 @@
 # papers
-some important papers include myself paper
+some important papers and book reading list
