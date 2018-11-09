@@ -26,9 +26,9 @@
 - [Joseph M. Hellerstein](http://db.cs.berkeley.edu/jmh/),Peter Bailis的老师，Michael Stonebraker的弟子,早期擅长查询优化，现在是大师，研究的比较杂
 
 
-### 华东师范大学数据科学与工程学院
+#### 华东师范大学数据科学与工程学院
 
-推一下自己学院的老师
+推一下自己学院的老师。
 
 - [钱卫宁](https://wnqian.wordpress.com/)，咳咳，首先推一下自己导师，不过凭良心讲老师的课都很不错，但是可能更多在课堂上讲，ppt上的内容不够详细，特别推荐[专业英语与写作](https://wnqian.wordpress.com/teaching/professional-english-writings/)这门课程，是将如何读和写论文的，有幸上了这门课，另外以前讲的数据库系统这门课也广受好评。
 
