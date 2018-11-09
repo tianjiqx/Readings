@@ -30,7 +30,7 @@
 
 推一下自己学院的老师
 
-- [钱卫宁]，(https://wnqian.wordpress.com/)，咳咳，首先推一下自己导师，不过凭良心讲老师的课都很不错，但是可能更多在课堂上讲，ppt上的内容不够详细，特别推荐[专业英语与写作](https://wnqian.wordpress.com/teaching/professional-english-writings/)这门课程，是将如何读和写论文的，有幸上了这门课，另外以前讲的数据库系统这门课也广受好评。
+- [钱卫宁](https://wnqian.wordpress.com/)，咳咳，首先推一下自己导师，不过凭良心讲老师的课都很不错，但是可能更多在课堂上讲，ppt上的内容不够详细，特别推荐[专业英语与写作](https://wnqian.wordpress.com/teaching/professional-english-writings/)这门课程，是将如何读和写论文的，有幸上了这门课，另外以前讲的数据库系统这门课也广受好评。
 
 - [高明](http://dase.ecnu.edu.cn/mgao/)，有幸上过高明老师的数据科学基础这门课程，虽然名字叫基础，但是高明老师讲的内容相当的硬核，大量的数据科学的相关内容穿插期间，可以说是很让人佩服高明老师渊博学识了,另外，高明老师的主页除课程外还有许多研究生技巧、工具等等，可以了解一下。
 
