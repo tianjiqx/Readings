@@ -11,7 +11,7 @@
 - [x] **[CMU 15-721 2018 Spring](https://15721.courses.cs.cmu.edu/spring2018/schedule.html)**，**[CMU 15-721 2017 Spring](https://15721.courses.cs.cmu.edu/spring2017/schedule.html)**，**[CMU 15-721 2016 Spring](https://15721.courses.cs.cmu.edu/spring2016/schedule.html)** 该系列课程是数据库大佬**Andy Pavlo**在CMU开设的《ADVANCED DATABASE SYSTEMS》课程，**课件精良**，右课程视频，会推荐好的论文,甚至有CMU学生的课程作业可以学习，了解整个分布式数据库系统，值得上的课程，最近几年的课程开设支持讲义下载。 
 
 
-- [ ] [COS 418: Distributed Systems 2018 Fall](https://www.cs.princeton.edu/courses/archive/fall18/cos418/schedule.html)、[COS 418: Distributed Systems 2016 Fall](https://www.cs.princeton.edu/courses/archive/fall17/cos418/syllabus.html)、 [COS 418: Distributed Systems 2016 Fall](http://www.cs.princeton.edu/courses/archive/fall16/cos418/syllabus.html)，普林斯顿的分布式系统课程，介绍大数据系统和分布式系统基础问题，包含课件。普林斯顿的公开课程较多，这里是[2018 Fall](http://www.cs.princeton.edu/courses/schedule) 的开设课程的地址，可根据感兴趣的内容自取。
+- [ ] [COS 418: Distributed Systems 2018 Fall](https://www.cs.princeton.edu/courses/archive/fall18/cos418/schedule.html)、[COS 418: Distributed Systems 2017 Fall](https://www.cs.princeton.edu/courses/archive/fall17/cos418/syllabus.html)、 [COS 418: Distributed Systems 2016 Fall](http://www.cs.princeton.edu/courses/archive/fall16/cos418/syllabus.html)，普林斯顿的分布式系统课程，介绍大数据系统和分布式系统基础问题，包含课件。普林斯顿的公开课程较多，这里是[2018 Fall](http://www.cs.princeton.edu/courses/schedule) 的开设课程的地址，可根据感兴趣的内容自取。
 
 - [ ] [COS518: Advanced Computer Systems (Spring 2018)]()，同样是普林斯顿的课程，感觉干货不如上面。
 
