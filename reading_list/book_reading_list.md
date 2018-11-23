@@ -39,10 +39,10 @@
 
 
 ### 英语
-
-  
-- [ ] The Only Grammar Book You’ll Ever Need (doing)
-- [ ] 风格的要素 The elements of style (doing)
+- [ ] on writing well 
+- [ ] The Kite Runner 
+- [ ] The Only Grammar Book You’ll Ever Need (delay)
+- [ ] 风格的要素 The elements of style (delay)
 
 
 
