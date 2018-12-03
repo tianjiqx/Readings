@@ -48,8 +48,9 @@
 - [x] PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database
 - [ ] Impala: A Modern, Open-Source SQL Engine for Hadoop
 - [ ] Anti-Caching: A New Approach to Database Management System Architecture
- 
-
+- [x] MapReduce: Simplified Data Processing on Large Clusters 
+- [ ] The Google File System
+- [ ] Bigtable: A Distributed Storage System for Structured Data
 
 
 ## 3 transcation
