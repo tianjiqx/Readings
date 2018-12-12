@@ -51,7 +51,8 @@
 - [x] MapReduce: Simplified Data Processing on Large Clusters 
 - [ ] The Google File System
 - [ ] Bigtable: A Distributed Storage System for Structured Data
-
+- [ ] Anna: A KVS For Any Scale
+- [ ] Eliminating Boundaries in Cloud Storage with Anna
 
 ## 3 transcation
 
