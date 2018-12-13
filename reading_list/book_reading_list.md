@@ -11,7 +11,8 @@
 - [x] **大数据日知录-架构与算法**(part)
 - [ ] 性能之巅
 - [ ] Redis设计与实现
-- [ ] Hadoop权威指南(第3版) 
+- [x] Hadoop权威指南(第3版) 
+- [ ] Hadoop in Practice (2nd)
 - [ ] high performance spark 
 - [ ] building data streaming applications apache kafka
 - [ ] Streaming System 
