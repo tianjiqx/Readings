@@ -35,4 +35,22 @@
 - [高明](http://dase.ecnu.edu.cn/mgao/)，有幸上过高明老师的数据科学基础这门课程，虽然名字叫基础，但是高明老师讲的内容相当的硬核，大量的数据科学的相关内容穿插期间，可以说是很让人佩服高明老师渊博学识了,另外，高明老师的主页除课程外还有许多研究生技巧、工具等等，可以了解一下。
 
 
+#### Github
+
+Please 看个人[follow](https://github.com/tianjiqx?tab=following)。
+
+#### 知乎
+- [郁白](https://www.zhihu.com/people/kayaklee/activities),本名李凯，前OeanBase事物处理负责人，数据库，分布式系统领域，[博客](http://oceanbase.org.cn/),知乎专栏[分布式与存储技术](https://zhuanlan.zhihu.com/likai)。
+- [阿莱克西斯](https://www.zhihu.com/people/ming-zi-zong-shi-hen-nan-qi/activities),热爱分享书单，分布式系统、大数据系统，机器学习等领域，emm，原数学系女生。
+- [YJango](https://www.zhihu.com/people/YJango/activities),机器学习，深度学习领域，用机器学习指导人类学习的系列短视频很不错，知乎专栏[超智能体](https://zhuanlan.zhihu.com/YJango)。
+
+- 更多，详见我的知乎[follow](https://www.zhihu.com/people/tianjiqx/following)。
+
+#### 博客园
+- [fxjwind](https://www.cnblogs.com/fxjwind/),大数据相关的随笔较多，少量深度学习内容。[big data 汇总](https://www.cnblogs.com/fxjwind/p/3535054.html)
+- [吴镝](https://home.cnblogs.com/u/foxmailed/),专注数据库和分布式存储系统，前OeanBase开发者，知乎[@吴镝](https://www.zhihu.com/people/foxmailed/activities)
+
+- [张建](https://www.cnblogs.com/zhj5chengfeng/),主要是解题报告，目前已经不更新，（目前TiDB 查询优化器主要负责人@zz-jason,emm,想进tidb的话，刷leetcode好像还不行，刷一些acm的题目吧，可以看大佬的刷过题然后速成一下）。
+- [Ariel_一只猫的旅行](https://www.cnblogs.com/ariel-dreamland/),深度学习领域的妹子，主要是深度学习，有一些leetcode题解。
+
 
