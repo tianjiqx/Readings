@@ -25,6 +25,7 @@
 - [x] 数据库查询优化器的艺术+原理解析与SQL性能
 - [ ] SQLite Database System Design and Implementation
 - [x] Designing Data-Intensive Applications (part)
+  - [章节扩展阅读论文目录](https://github.com/ept/ddia-references)
 - [x] PostgreSQL技术内幕+查询优化深度探索+张树杰(part,少有的帮助理解pg查询优化器代码的书) 
 - [x] PostgreSQL数据库内核分析(part)
 - [x] SQL语言艺术(part)
