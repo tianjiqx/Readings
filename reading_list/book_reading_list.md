@@ -43,7 +43,7 @@
 
 ### 编程语言学习
 - [ ] 快学Scala
-
+  - [scala笔记，常用语法](https://www.cnblogs.com/fxjwind/p/3338829.html)
 
 ### 英语
 - [ ] on writing well 
