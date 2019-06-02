@@ -54,6 +54,17 @@
 - [ ] Anna: A KVS For Any Scale
 - [ ] Eliminating Boundaries in Cloud Storage with Anna
 
+
+### 2.1 Column-store
+- [x] C-store: a column-oriented DBMS
+- [x] Column-Stores vs. Row-Stores: How Different Are They Really?
+- [x] The Vertica Analytic Database: C-Store 7 Years Later
+- [ ] Query execution in column-oriented database systems
+- [ ] Integrating Compression and Execution in Column-Oriented Database Systems 
+- [x] Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads
+
+
+
 ## 3 transcation
 
 ### 3.1 acid & base
