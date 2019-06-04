@@ -15,7 +15,7 @@
 - [ ] high performance spark 
 - [ ] building data streaming applications apache kafka
 - [ ] Streaming System 
-
+- [ ] Spark内核设计的艺术-架构设计与实现（耿嘉安）
 
 ### 计算机： 数据库
 
