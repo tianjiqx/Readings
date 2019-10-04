@@ -50,7 +50,7 @@
 - [ ] Anti-Caching: A New Approach to Database Management System Architecture
 - [x] MapReduce: Simplified Data Processing on Large Clusters 
 - [x] The Google File System
-- [ ] Bigtable: A Distributed Storage System for Structured Data
+- [x] Bigtable: A Distributed Storage System for Structured Data
 - [ ] Anna: A KVS For Any Scale
 - [ ] Eliminating Boundaries in Cloud Storage with Anna
 
@@ -59,8 +59,8 @@
 - [x] C-store: a column-oriented DBMS
 - [x] Column-Stores vs. Row-Stores: How Different Are They Really?
 - [x] The Vertica Analytic Database: C-Store 7 Years Later
-- [ ] Query execution in column-oriented database systems
-- [ ] Integrating Compression and Execution in Column-Oriented Database Systems 
+- [x] Query execution in column-oriented database systems
+- [x] Integrating Compression and Execution in Column-Oriented Database Systems 
 - [x] Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads
 
 
