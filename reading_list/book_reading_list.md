@@ -1,25 +1,31 @@
 
-## 书籍的阅读列表
 
+# 书籍的阅读列表
 
-### 计算机：架构
+[TOC]
+
+## 计算机
+
+### 系统架构
 
 
 - [x] 架构即未来
 - [x] 大规模分布式存储系统：原理解析与架构实战(part)
 - [x] **大数据日知录-架构与算法**(part)
 - [ ] Redis设计与实现
-- [x] Hadoop权威指南(第3版) 
 - [ ] Hadoop in Practice (2nd)
 - [ ] high performance spark 
 - [ ] building data streaming applications apache kafka
 - [ ] Streaming System 
-- [ ] Spark内核设计的艺术-架构设计与实现（耿嘉安）
+- [ ] 分布式数据库系统原理，第三版
+- [ ] 分布式系统概念与设计，第五版
+- [ ] 深入分布式缓存:从原理到实践
 
-### 性能分析
-- [ ] java性能优化权威指南
-- [ ] 性能之巅
-### 计算机： 数据库
+
+
+
+
+### 数据库
 
 
 - [x] 数据库系统实现（第二版）(part)
@@ -33,31 +39,109 @@
 - [x] SQL优化核心思想(part,oracle,第九章sql优化案例赏析)
 - [x] 高性能MySQL
 
-### 计算机：测试
+
+
+### 大数据系统
+
+#### Hadoop
+
+- [x] Hadoop技术内幕 深入解析Hadoop common和HDFS架构设计与实现原理
+- [ ] Hadoop技术内幕 深入解析MapReduce架构设计与实现原理
+- [x] Hadoop权威指南(第4版) 
+- [ ] Hadoop构建数据仓库实践
+- [ ] 大数据处理系统:Hadoop源代码情景分析
+- [ ] Hadoop深度学习
+- [ ] Hadoop MapReduce实战手册 (具体使用的应用设计)
+- [ ] Hadoop生态系统（大数据系统概览）
+
+
+
+#### HBase
+
+- [x] HBase原理与实践-胡争(推荐，原理解析)
+- [ ] HBase权威指南（原理与使用）
+- [ ] HBase实战（应用设计，hbase使用实践）
+- [ ] HBase企业应用开发(项目应用)
+
+
+
+#### Spark
+
+- [x] Spark内核设计的艺术-架构设计与实现（耿嘉安）
+- [x] Spark技术内幕  深入解析Spark内核架构设计与实现原理（推荐）
+- [x] 企业大数据处理：Spark、Druid、Flume与Kafka应用实践
+- [ ] 
+
+
+
+#### Hive
+
+- [ ] Hive实战
+- [ ] Hive性能调优实战
+
+
+
+#### Yarn
+
+- [x] Hadoop技术内幕：深入解析YARN架构设计与实现原理
+
+
+
+#### ZooKeeper
+
+- [ ] 从PAXOS到ZOOKEEPER分布式一致性原理与实践
+- [ ] Zookeeper分布式进程协同
+
+
+
+### 性能分析
+
+- [x] 性能之巅（网络）
+- [ ] Java性能优化权威指南
+
+
+
+
+### 测试
+
 - [ ] google测试之道
 - [ ] 测试驱动开发
 
+
+
 ### 编程艺术
-- [ ] unix编程艺术
+
+- [ ] Unix编程艺术
 - [x] 软件框架设计的艺术
 - [x] **重构-改善既有代码的设计2010版**
 - [x] 重构与模式
 - [x] 代码整洁之道
 - [ ] 设计模式之禅
 - [ ] 设计模式
-- [ ] head first设计模式 
+- [x] Head first设计模式 (推荐)
 - [ ] 修改代码的艺术
+- [x] 程序员的思维修炼(推荐)
+- [ ] 弹性习惯
 
 
 
-### 计算机：数据可视化  
+### 数据可视化  
 
 
-### 编程语言学习
-- [ ] 快学Scala
+
+### 编程语言
+
+#### Scala
+
+- [x] 快学Scala
   - [scala笔记，常用语法](https://www.cnblogs.com/fxjwind/p/3338829.html)
 
-### 英语
+
+
+
+
+## 英语
+
 - [ ] on writing well 
 - [ ] The Kite Runner 
 - [ ] The Only Grammar Book You’ll Ever Need (delay)
@@ -65,14 +149,15 @@
 
 
 
-### 面试
+## 面试
 
 
 - [x] 程序员代码面试指南IT名企算法与数据结构题目最优解-左程云(part)   
 - [x] 剑指Offer(part)
 
 
-### 经验
+
+## 经验
 
 - [x] 数学之美(part,闲书)
 - [x] 数据驱动：从方法到实践(part)
