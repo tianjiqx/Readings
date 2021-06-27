@@ -3,6 +3,7 @@
 ## 课程与博客列表
 该文档，将收集一些个人感兴趣的公开课程，以及大佬的个人博客链接。
 
+由于长久未维护，推荐@胡津铭 的[名校公开课程评价](https://github.com/conanhujinming/comments-for-awesome-courses), 更加详细和评价更加全面。个人更多只是阅读slide参考学习，并没有参与过其课程作业。
 
 
 ### 课程
