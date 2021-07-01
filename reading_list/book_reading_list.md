@@ -149,6 +149,11 @@
 
 
 
+#### Rust
+
+- [ ] [通过例子学Rust](https://github.com/rust-lang-cn/rust-by-example-cn)
+- [ ] [RustPrimer中文版](https://github.com/rustcc/RustPrimer)
+
 
 
 ## 英语
