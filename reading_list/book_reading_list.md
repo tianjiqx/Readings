@@ -13,15 +13,10 @@
 - [x] 大规模分布式存储系统：原理解析与架构实战(part)
 - [x] **大数据日知录-架构与算法**(part)
 - [ ] Redis设计与实现
-- [ ] Hadoop in Practice (2nd)
-- [ ] high performance spark 
-- [ ] building data streaming applications apache kafka
 - [ ] Streaming System 
 - [ ] 分布式数据库系统原理，第三版
 - [ ] 分布式系统概念与设计，第五版
 - [ ] 深入分布式缓存:从原理到实践
-
-
 
 
 
@@ -38,6 +33,7 @@
 - [x] SQL语言艺术(part)
 - [x] SQL优化核心思想(part,oracle,第九章sql优化案例赏析)
 - [x] 高性能MySQL
+- [ ] Database.Internals 数据库系统内幕
 
 
 
@@ -53,6 +49,7 @@
 - [ ] Hadoop深度学习
 - [ ] Hadoop MapReduce实战手册 (具体使用的应用设计)
 - [ ] Hadoop生态系统（大数据系统概览）
+- [ ] Hadoop in Practice (2nd)
 
 
 
@@ -70,7 +67,7 @@
 - [x] Spark内核设计的艺术-架构设计与实现（耿嘉安）
 - [x] Spark技术内幕  深入解析Spark内核架构设计与实现原理（推荐）
 - [x] 企业大数据处理：Spark、Druid、Flume与Kafka应用实践
-- [ ] 
+- [ ] high performance spark 
 
 
 
@@ -101,8 +98,27 @@
 - [ ] Kafka 技术内幕-郑奇煌 （源码分析，完整架构细节实现）
 - [ ] Kafka源码解析与实战-王亮 (源码分析比例最重，分析源码时再看，与内幕相互补充)
 - [ ] Apache Kafka 实战-胡夕 (kafka1.0.0，带有一定使用上的介绍) 
+- [ ] building data streaming applications apache kafka
 
 
+
+#### Flink
+
+- [ ] Flink原理与实践-鲁蔚征
+- [ ] Flink内核原理与实现-冯飞，崔鹏云
+- [ ] Stream Processing with Apache Flink
+
+
+
+#### Clickhouse
+
+- [ ] Clickhouse原理解析与应用实战
+
+
+
+#### Presto
+
+- [ ] Presto 实战
 
 
 
@@ -153,6 +169,13 @@
 
 - [ ] [通过例子学Rust](https://github.com/rust-lang-cn/rust-by-example-cn)
 - [ ] [RustPrimer中文版](https://github.com/rustcc/RustPrimer)
+
+
+
+### Golang
+
+- [ ] Go语言圣经The Go Programming Language (Alan A.A. Donovan)
+- [ ] [Go 系列教程](https://studygolang.com/subject/2)
 
 
 
