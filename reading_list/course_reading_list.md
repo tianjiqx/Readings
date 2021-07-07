@@ -47,6 +47,9 @@ Please 看个人[follow](https://github.com/tianjiqx?tab=following)。
 
 - 更多，详见我的知乎[follow](https://www.zhihu.com/people/tianjiqx/following)。
 
+近期fork，然后改了一个知乎专栏的爬虫，可以将自己关注的专栏文章收集起来，便于学习某个主题时，可以获得高质量的参考。项目地址：[ZhihuZhuanlanCrawler](https://github.com/tianjiqx/ZhihuZhuanlanCrawler)
+
+
 #### 博客园
 - [fxjwind](https://www.cnblogs.com/fxjwind/),大数据相关的随笔较多，少量深度学习内容。[big data 汇总](https://www.cnblogs.com/fxjwind/p/3535054.html)
 - [吴镝](https://home.cnblogs.com/u/foxmailed/),专注数据库和分布式存储系统，前OeanBase开发者，知乎[@吴镝](https://www.zhihu.com/people/foxmailed/activities)
