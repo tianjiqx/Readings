@@ -17,6 +17,7 @@
 - [ ] 分布式数据库系统原理，第三版
 - [ ] 分布式系统概念与设计，第五版
 - [ ] 深入分布式缓存:从原理到实践
+- [ ] 5G System Design: Architectural and Functional Considerations and Long Term Research
 
 
 
@@ -93,11 +94,11 @@
 
 #### Kafka
 
-- [ ] Kafka权威指南 （设计动机，如何推导出设计的）
-- [ ] Kafka stream实战-(英) （kafka如何走向流处理）
-- [ ] Kafka 技术内幕-郑奇煌 （源码分析，完整架构细节实现）
+- [x] Kafka权威指南 （设计动机，如何推导出设计的）
+- [x] Kafka stream实战-(英) （kafka如何走向流处理）
+- [x] Kafka 技术内幕-郑奇煌 （源码分析，完整架构细节实现）
 - [ ] Kafka源码解析与实战-王亮 (源码分析比例最重，分析源码时再看，与内幕相互补充)
-- [ ] Apache Kafka 实战-胡夕 (kafka1.0.0，带有一定使用上的介绍) 
+- [x] Apache Kafka 实战-胡夕 (kafka1.0.0，带有一定使用上的介绍) 
 - [ ] building data streaming applications apache kafka
 
 
@@ -110,9 +111,9 @@
 
 
 
-#### Clickhouse
+#### ClickHouse
 
-- [ ] Clickhouse原理解析与应用实战
+- [ ] ClickHouse原理解析与应用实战-朱凯
 
 
 
@@ -126,6 +127,14 @@
 
 - [x] 性能之巅（网络）
 - [ ] Java性能优化权威指南
+
+
+
+### 监控
+
+- [ ] Prometheus云原生监控：运维与开发实战
+
+
 
 
 
@@ -167,14 +176,16 @@
 
 #### Rust
 
-- [ ] [通过例子学Rust](https://github.com/rust-lang-cn/rust-by-example-cn)
-- [ ] [RustPrimer中文版](https://github.com/rustcc/RustPrimer)
+- [x] [通过例子学Rust](https://github.com/rust-lang-cn/rust-by-example-cn)
+- [x] [Rust 程序设计语言-中文版](https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言)
+- [x] [RustPrimer中文版](https://github.com/rustcc/RustPrimer)
+- [ ] Rust编程之道 （补充）
 
 
 
 ### Golang
 
-- [ ] Go语言圣经The Go Programming Language (Alan A.A. Donovan)
+- [x] Go语言圣经The Go Programming Language (Alan A.A. Donovan)
 - [ ] [Go 系列教程](https://studygolang.com/subject/2)
 
 
