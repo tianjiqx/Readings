@@ -35,6 +35,9 @@
 - [x] SQL优化核心思想(part,oracle,第九章sql优化案例赏析)
 - [x] 高性能MySQL
 - [ ] Database.Internals 数据库系统内幕
+- [ ] [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [ ] [The Design and Implementation of Modern Column-store Database Systems](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf)
+- [ ] [Massively Parallel Databases and MapReduce Systems](https://www.cut.ac.cy/digitalAssets/122/122275_1002013-FnTDB-Survey.pdf)
 
 
 
@@ -123,6 +126,17 @@
 
 
 
+### 云服务
+
+#### K8S
+
+- [ ] [Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
+- [ ] Kubernetes权威指南 第4版
+- [ ] Kubernetes in Action
+- [ ] [Kubernetes生产化实践之路-孟凡杰](https://weread.qq.com/web/reader/cbe32c6072226556cbea464kc81322c012c81e728d9d180) 
+
+
+
 ### 性能分析
 
 - [x] 性能之巅（网络）
@@ -133,8 +147,6 @@
 ### 监控
 
 - [ ] Prometheus云原生监控：运维与开发实战
-
-
 
 
 
@@ -155,6 +167,7 @@
 - [x] 代码整洁之道
 - [ ] 设计模式
 - [x] Head first设计模式 (推荐)
+- [ ] 重学Java设计模式
 - [ ] 修改代码的艺术
 - [x] 程序员的思维修炼(推荐)
 - [ ] 弹性习惯
@@ -183,7 +196,7 @@
 
 
 
-### Golang
+#### Golang
 
 - [x] Go语言圣经The Go Programming Language (Alan A.A. Donovan)
 - [ ] [Go 系列教程](https://studygolang.com/subject/2)
