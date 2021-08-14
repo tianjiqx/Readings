@@ -5,7 +5,7 @@
 
 ## 1.query optimization
 
-### 1.5 overview
+### 1.1 overview
 - [x] What’s Really New with NewSQL?(Andrew Pavlo,recommended)
 - [ ] Ioannidis, Y. E. (1996). Query Optimization. ACM Computing Surveys, 1–38.
 - [ ] Surajit Chaudhuri.An Overview of Query Optimization in Relational Systems
@@ -16,6 +16,8 @@
 - [x] The MemSQL Query Optimizer:A modern optimizer for real-time analytics in a distributed database (recommended)
 - [x] Query Optimization Time: The New Bottleneck in Real-time Analytics(also is memsql,recommended)
 - [x] LEO – DB2’s LEarning Optimizer (bad)
+- [ ] Apache Calcite: A Foundational Framework for Optimized Query Processing Over Heterogeneous Data Sources
+- [ ] The Cascades framework for query optimization
 
 ### 1.3 join order (current need read)
 - [ ] Improving Join Reorderabilitywith Compensation Operators
@@ -53,9 +55,22 @@
 - [x] Bigtable: A Distributed Storage System for Structured Data
 - [ ] Anna: A KVS For Any Scale
 - [ ] Eliminating Boundaries in Cloud Storage with Anna
+- [x] Delta Lake : High-Performance ACID Table Storage over Cloud Object Stores
+- [ ] AnalyticDB: Real-time OLAP database system at Alibaba Cloud
+- [ ] Cloud native database systems at Alibaba: Opportunities and challenges
+- [ ] Large-scale incremental processing using distributed transactions and notifications
+- [ ] Multi-model Databases: A new journey to handle the variety of data
+- [x] TiDB: A Raft-based HTAP Database
+- [x] Spark SQL: Relational Data Processing in Spark
+- [x] Delta Lake : High-Performance ACID Table Storage over Cloud Object Stores
+- [x] Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics
+- [ ] Cloud native database systems at Alibaba: Opportunities and challenges
+- [ ] Multi-model Databases: A new journey to handle the variety of data
+
 
 
 ### 2.1 Column-store
+
 - [x] C-store: a column-oriented DBMS
 - [x] Column-Stores vs. Row-Stores: How Different Are They Really?
 - [x] The Vertica Analytic Database: C-Store 7 Years Later
@@ -80,10 +95,24 @@
 
 
 
+## 5 Execution
+
+### 5.1 MPP
+
+- [ ] Comparative Study Parallel Join Algorithms for MapReduce environment
 
 
 
+### 5.2 Concurrency control
 
+- [ ] Franklin, M. (1997). Concurrency control and recovery. The Computer Science and Engineering Handbook, (c), 1058–1077. 
+- [ ] Abadi, D. J., & Madden, S. (2008). Query Execution in Column-Oriented Database Systems.
+
+
+
+### 5.3 Data Structure
+
+- [ ] Zhang, H., Andersen, D. G., Kaminsky, M., Keeton, K., & Pavlo, A. (n.d.). SuRF : Practical Range Query Filtering with Fast Succinct Tries.
 
 
 
