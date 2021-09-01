@@ -31,7 +31,7 @@
 
 推一下自己学院的老师。
 
-- [钱卫宁](https://wnqian.wordpress.com/)，咳咳，首先推一下自己导师，不过凭良心讲老师的课都很不错，但是可能更多在课堂上讲，ppt上的内容不够详细，特别推荐[专业英语与写作](https://wnqian.wordpress.com/teaching/professional-english-writings/)这门课程，是将如何读和写论文的，有幸上了这门课，另外以前讲的数据库系统这门课也广受好评。
+- [钱卫宁](https://wnqian.wordpress.com/)，咳咳，首先推一下自己导师，不过凭良心讲老师的课都很不错，但是可能更多在课堂上讲，ppt上的内容不够详细，特别推荐[专业英语与写作](https://wnqian.wordpress.com/teaching/professional-english-writings/)这门课程，是将如何读和写论文的，有幸上了这门课，另外以前讲的数据库系统这门课也广受好评。[dblp](https://dblp.uni-trier.de/pid/55/3364.html)
 
 - [高明](http://dase.ecnu.edu.cn/mgao/)，有幸上过高明老师的数据科学基础这门课程，虽然名字叫基础，但是高明老师讲的内容相当的硬核，大量的数据科学的相关内容穿插期间，可以说是很让人佩服高明老师渊博学识了,另外，高明老师的主页除课程外还有许多研究生技巧、工具等等，可以了解一下。
 
@@ -57,4 +57,10 @@ Please 看个人[follow](https://github.com/tianjiqx?tab=following)。
 - [张建](https://www.cnblogs.com/zhj5chengfeng/),主要是解题报告，目前已经不更新，（目前TiDB 查询优化器主要负责人@zz-jason,emm,想进tidb的话，刷leetcode好像还不行，刷一些acm的题目吧，可以看大佬的刷过题然后速成一下）。
 - [Ariel_一只猫的旅行](https://www.cnblogs.com/ariel-dreamland/),深度学习领域的妹子，主要是深度学习，有一些leetcode题解。
 
+#### 个人
 
+- [Longda Feng](http://ilongda.com/) 大数据，数据库，阿里，论文分析，MySQL源码分析
+- [Fu Zhe](https://fuzhe1989.github.io/archives/)  大数据，数据库，PingCAP，论文笔记
+- [Eric Fu](https://ericfu.me/archives/)  大数据，数据库，阿里，PolarDB
+
+（TODO，聚合其博客文章, or site:过滤）
