@@ -20,11 +20,18 @@
 
 - [ ] [DS100 Principles and Techniques of Data Science 2018 Fall](http://www.ds100.org/fa18/syllabus#lecture-week-12),Joseph M. Hellerstein的一门数据科学的相关课程，还没看，有时间在看
 
+- [ ] [stanford cs245  Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) , Matei Zaharia， 分布式系统，数据库，大数据系统相关，概览，推荐作为入门学习slides。
+
+- [ ] [stanford CS349D: Cloud Computing Technology ](http://web.stanford.edu/class/cs349d/) , [Christos Kozyrakis](http://csl.stanford.edu/~christos/),  AWS，云系统，机器学习， 新硬件相关。（暂无公开slides，作为paper list吧）
+
+  [couserhero](https://www.coursehero.com/file/98428899/CS349D-Cloud-Computing-Technology-sylabuspdf/) 似乎有份slides，但是无法免费下载
+
 ### 博客
 
 #### 数据库
 - [Peter Bailis](http://www.bailis.org/)，数据库红书第五版作者，图灵奖大佬Michael Stonebraker的再传弟子，擅长事务处理相关内容。（顶会随意刷：））[文章地址](http://www.bailis.org/blog/)，只到2016年的，之后的地址没找到。
 - [Joseph M. Hellerstein](http://db.cs.berkeley.edu/jmh/),Peter Bailis的老师，Michael Stonebraker的弟子,早期擅长查询优化，现在是大师，研究的比较杂
+- [Matei Zaharia](https://cs.stanford.edu/~matei/), spark作者， databricks 联合创始人， Stanford副教授，仍在授课。
 
 
 #### 华东师范大学数据科学与工程学院

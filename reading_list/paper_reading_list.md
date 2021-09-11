@@ -55,16 +55,13 @@
 - [x] Bigtable: A Distributed Storage System for Structured Data
 - [ ] Anna: A KVS For Any Scale
 - [ ] Eliminating Boundaries in Cloud Storage with Anna
-- [x] Delta Lake : High-Performance ACID Table Storage over Cloud Object Stores
-- [ ] AnalyticDB: Real-time OLAP database system at Alibaba Cloud
+- [x] AnalyticDB: Real-time OLAP database system at Alibaba Cloud
 - [ ] Cloud native database systems at Alibaba: Opportunities and challenges
 - [ ] Large-scale incremental processing using distributed transactions and notifications
 - [ ] Multi-model Databases: A new journey to handle the variety of data
 - [x] TiDB: A Raft-based HTAP Database
 - [x] Spark SQL: Relational Data Processing in Spark
-- [x] Delta Lake : High-Performance ACID Table Storage over Cloud Object Stores
-- [x] Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics
-- [ ] Cloud native database systems at Alibaba: Opportunities and challenges
+- [x] Cloud native database systems at Alibaba: Opportunities and challenges
 - [ ] Multi-model Databases: A new journey to handle the variety of data
 
 
@@ -116,7 +113,23 @@
 
 
 
+## 6. Data lake
+
+- [x] Delta Lake : High-Performance ACID Table Storage over Cloud Object Stores
+- [x] Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics
+- [x] [Hudi: Uber Engineering’s Incremental Processing Framework on Apache Hadoop](https://eng.uber.com/hoodie/)
+- [x] [slides: Lakehouse Technology as the Future of Data Warehousing](http://web.stanford.edu/class/cs245/slides/LakehouseGuestTalk.pdf)
 
 
 
+## 7.I/O
 
+- [ ] Raghavan, D., Levis, P., Zaharia, M., & Zhang, I. (2021). Breakfast of champions: Towards zero-copy serialization with NIC scatter-gather. HotOS 2021 - Proceedings of the 2021 Workshop on Hot Topics in Operating Systems, 199–205. https://doi.org/10.1145/3458336.3465287 [paper](https://cs.stanford.edu/~matei/papers/2021/hotos_serialization.pdf)
+
+
+
+## 8. Stream System
+
+- [ ] Johansson, T., & Bergvik, A. (1975). Naiad: A Timely Dataflow System Derek. Acta Neurologica Scandinavica, 52(1), 63–70. https://doi.org/10.1111/j.1600-0404.1975.tb02828.x
+- [ ] Gjengset, J., Schwarzkopf, M., Behrens, J., Araújo, L. T., Kohler, E., Kaashoek, M. F., … Morris, R. (2018). Noria: dynamic, partially-stateful data-flow for high-performance web applications.
+- [ ] 
