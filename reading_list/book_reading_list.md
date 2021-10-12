@@ -18,6 +18,8 @@
 - [ ] 分布式系统概念与设计，第五版
 - [ ] 深入分布式缓存:从原理到实践
 - [ ] 5G System Design: Architectural and Functional Considerations and Long Term Research
+- [ ] etcd技术内幕 - 百里燊
+- [ ] 云原生分布式存储基石 etcd深入解析 ,杜军
 
 
 
@@ -141,6 +143,7 @@
 
 - [x] 性能之巅（网络）
 - [ ] Java性能优化权威指南
+- [ ] 高性能服务系统构建与实战-银文杰
 
 
 
@@ -180,6 +183,13 @@
 
 ### 编程语言
 
+#### Java
+
+- [ ] Java并发编程之美 - 翟陆续
+- [ ] Java异步编程实战 - 翟陆续
+
+
+
 #### Scala
 
 - [x] 快学Scala
@@ -200,6 +210,9 @@
 
 - [x] Go语言圣经The Go Programming Language (Alan A.A. Donovan)
 - [ ] [Go 系列教程](https://studygolang.com/subject/2)
+- [ ] [官方 effective go](https://golang.org/doc/effective_go)
+- [ ] [Go (Golang) 编码指南](https://wiki.crdb.io/wiki/spaces/CRDB/pages/181371303/Go+Golang+coding+guidelines)  CRDB的go编码最佳实践
+- [ ] [分析 Go 程序](https://go.dev/blog/pprof)  go tool pprof
 
 
 
