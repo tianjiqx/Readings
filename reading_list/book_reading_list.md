@@ -128,6 +128,16 @@
 
 
 
+#### ElasticSearch
+
+- [ ] [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html) 2.x (当前2021年已经7.15)
+- [ ] [Elasticsearch Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+- [ ] [从Lucene到Elasticsearch：全文检索实战](https://weread.qq.com/web/reader/f2132080719b1f87f2167b1kc81322c012c81e728d9d180)
+
+
+
+
+
 ### 云服务
 
 #### K8S
