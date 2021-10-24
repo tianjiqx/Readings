@@ -130,6 +130,8 @@
 
 #### ElasticSearch
 
+- [ ] Elasticsearch源码解析与优化实战-张超
+- [ ] Elasticsearch技术解析与实战-朱林
 - [ ] [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html) 2.x (当前2021年已经7.15)
 - [ ] [Elasticsearch Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 - [ ] [从Lucene到Elasticsearch：全文检索实战](https://weread.qq.com/web/reader/f2132080719b1f87f2167b1kc81322c012c81e728d9d180)
@@ -196,7 +198,18 @@
 #### Java
 
 - [ ] Java并发编程之美 - 翟陆续
+
 - [ ] Java异步编程实战 - 翟陆续
+
+- [ ] [深入理解Java虚拟机](https://klose911.github.io/html/jvm/jvm.html)
+
+- [ ] 深入理解java虚拟机 JVM 高级特性与最佳实践 - 周志明
+
+  [《深入理解 Java 虚拟机》阅读笔记](https://github.com/TangBean/understanding-the-jvm)
+
+- [ ] java虚拟机精讲-高翔龙
+
+- [ ] Effective java
 
 
 
