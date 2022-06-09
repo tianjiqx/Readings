@@ -20,6 +20,7 @@
 - [ ] 5G System Design: Architectural and Functional Considerations and Long Term Research
 - [ ] etcd技术内幕 - 百里燊
 - [ ] 云原生分布式存储基石 etcd深入解析 ,杜军
+- [x] gRPC: Up and Running
 
 
 
@@ -125,6 +126,7 @@
 #### Presto
 
 - [ ] Presto 实战
+- [ ] Trino: The Definitive Guide
 
 
 
@@ -159,9 +161,17 @@
 
 
 
+### 机器学习
+
+- [ ] [Dataframe Systems: Theory, Architecture, and Implementation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-193.pdf)
+- [ ] [机器学习系统：设计和实现](https://openmlsys.github.io/)
+
+
+
 ### 监控
 
 - [ ] Prometheus云原生监控：运维与开发实战
+- [x] Distributed Systems Observability: *A Guide to Building Robust Systems* *Cindy Sridharan*
 
 
 
