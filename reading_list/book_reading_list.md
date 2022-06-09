@@ -164,7 +164,9 @@
 ### 机器学习
 
 - [ ] [Dataframe Systems: Theory, Architecture, and Implementation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-193.pdf)
+- [ ] 分布式机器学习：算法、理论与实践
 - [ ] [机器学习系统：设计和实现](https://openmlsys.github.io/)
+- [ ] [TensorFlow内核剖析](https://github.com/horance-liu/tensorflow-internals/blob/master/tensorflow-internals.pdf)
 
 
 
