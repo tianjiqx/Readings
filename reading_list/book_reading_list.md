@@ -137,8 +137,12 @@
 - [ ] [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html) 2.x (当前2021年已经7.15)
 - [ ] [Elasticsearch Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 - [ ] [从Lucene到Elasticsearch：全文检索实战](https://weread.qq.com/web/reader/f2132080719b1f87f2167b1kc81322c012c81e728d9d180)
+- [ ] [Elastic Stack 实战手册-阿里云]()
+- [ ] [Elasticsearch全观测技术解析与应用（构建日志、指标、APM统一观测平台）](https://developer.aliyun.com/ebook/download/8?spm=a2c6h.26392459.ebook-detail.3.b07b7d7bxcDoE4) 阿里云
 
+- [Elastic 日报](https://elasticsearch.cn/article/category-18)
 
+- [阿里云-开发者藏经阁](https://developer.aliyun.com/ebook/)
 
 
 
@@ -192,6 +196,8 @@
 - [x] **重构-改善既有代码的设计2010版**
 - [x] 重构与模式
 - [x] 代码整洁之道
+- [ ] [深入设计模式](https://refactoringguru.cn/design-patterns)
+
 - [ ] 设计模式
 - [x] Head first设计模式 (推荐)
 - [ ] 重学Java设计模式
@@ -238,6 +244,8 @@
 - [x] [Rust 程序设计语言-中文版](https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言)
 - [x] [RustPrimer中文版](https://github.com/rustcc/RustPrimer)
 - [ ] Rust编程之道 （补充）
+- [ ] [Effective Rust](https://www.lurklurk.org/effective-rust/intro.html)
+- [ ] [Rust 基本数据结构和算法](https://github.com/QMHTMY/RustBook/blob/main/README_CN.md)
 
 
 
@@ -248,6 +256,7 @@
 - [ ] [官方 effective go](https://golang.org/doc/effective_go)
 - [ ] [Go (Golang) 编码指南](https://wiki.crdb.io/wiki/spaces/CRDB/pages/181371303/Go+Golang+coding+guidelines)  CRDB的go编码最佳实践
 - [ ] [分析 Go 程序](https://go.dev/blog/pprof)  go tool pprof
+- [ ] [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
 
 

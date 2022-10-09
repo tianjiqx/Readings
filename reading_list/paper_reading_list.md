@@ -94,9 +94,16 @@
 
 ## 5 Execution
 
-### 5.1 MPP
+### 5.1 MPP & Vectorization
 
 - [ ] Comparative Study Parallel Join Algorithms for MapReduce environment
+- [ ] [Volcano - An Extensible and Parallel Query Evaluation System](https://paperhub.s3.amazonaws.com/dace52a42c07f7f8348b08dc2b186061.pdf)
+- [ ] [Presto: SQL on Everything](https://trino.io/Presto_SQL_on_Everything.pdf)
+- [ ] [Incorporating Partitioning and Parallel Plans into the SCOPE Optimizer](http://www.cs.albany.edu/~jhh/courses/readings/zhou10.pdf)
+- [ ] [Query Optimization and Execution in Vectorwise MPP](https://homepages.cwi.nl/~boncz/msc/2012-AndreiCosteaAdrianIonescu.pdf)
+- [x] [MonetDB/X100: Hyper-Pipelining Query Execution](http://cidrdb.org/cidr2005/papers/P19.pdf)
+- [x] [Vectorization vs. Compilation in Query Execution](https://15721.courses.cs.cmu.edu/spring2016/papers/p5-sompolski.pdf)
+- [x] [Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask](https://www.vldb.org/pvldb/vol11/p2209-kersten.pdf)  
 
 
 
