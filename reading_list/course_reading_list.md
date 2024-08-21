@@ -26,6 +26,8 @@
 
   [couserhero](https://www.coursehero.com/file/98428899/CS349D-Cloud-Computing-Technology-sylabuspdf/) 似乎有份slides，但是无法免费下载
 
+- [ ]  [大数据挖掘 2019](http://wnzhang.net/teaching/ee448/index.html) [动手学强化学习](https://hrl.boyuai.com/)  [张伟楠](http://wnzhang.net/)
+
 ### 博客
 
 #### 数据库

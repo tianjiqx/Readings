@@ -171,7 +171,7 @@
 - [ ] 分布式机器学习：算法、理论与实践
 - [ ] [机器学习系统：设计和实现](https://openmlsys.github.io/)
 - [ ] [TensorFlow内核剖析](https://github.com/horance-liu/tensorflow-internals/blob/master/tensorflow-internals.pdf)
-
+- [ ] [深度学习入门：基于 Python 的理论与实现 - 斋藤康毅]()
 
 
 ### 监控
@@ -204,7 +204,7 @@
 - [ ] 修改代码的艺术
 - [x] 程序员的思维修炼(推荐)
 - [ ] 弹性习惯
-
+- [ ] [软件设计的哲学](https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/)
 
 
 ### 数据可视化  
